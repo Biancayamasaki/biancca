@@ -1,8 +1,11 @@
 body {
-    background: #1d4e38ad
+    background: #00ff8cad
 
 }
 
-#banner {
-    width: 100%;
+.banner {
+    justify-content: center;
+    padding-right: 60%;
+    background: cover;
+
 }
